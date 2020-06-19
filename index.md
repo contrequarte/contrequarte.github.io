@@ -7,3 +7,6 @@ He is a bounty hunter who becomes a specialist plainclothes police officer with 
 * self-involved
 * maybe human
 * maybe replicant
+
+> An android doesn’t care what happens to another 
+> android. That’s one of the indications we look for.
