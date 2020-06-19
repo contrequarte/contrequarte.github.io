@@ -10,3 +10,5 @@ He is a bounty hunter who becomes a specialist plainclothes police officer with 
 
 > An android doesn’t care what happens to another 
 > android. That’s one of the indications we look for.
+
+<img src="https://en.wikipedia.org/wiki/File:Rick_Deckard.jpg"/>
